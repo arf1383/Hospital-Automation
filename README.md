@@ -21,10 +21,12 @@ OS Commands: To clear the screen and handle system-specific tasks.
 
 ##########################################################
 
-hospital-automation-system/
+hospital-automation-system
 │
-├── main.py               
+├── main.py 
+
 ├── hospital_automation.py
+
 ├── models.py             
 ├── utils.py              
 ├── validation.py         
@@ -37,6 +39,7 @@ hospital-automation-system/
 
 Author
 Alireza Rahmani Firouzja
+
 GitHub: https://github.com/arf1383
 
 
