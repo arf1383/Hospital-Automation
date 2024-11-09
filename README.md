@@ -23,10 +23,9 @@ OS Commands: To clear the screen and handle system-specific tasks.
 
 hospital-automation-system
 │
+
 ├── main.py 
-
 ├── hospital_automation.py
-
 ├── models.py             
 ├── utils.py              
 ├── validation.py         
