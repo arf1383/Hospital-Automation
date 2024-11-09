@@ -1,8 +1,5 @@
+Hospital Automation Systemا🏥
 
-Here’s a sample README.md in English for your GitHub project:
-
-Hospital Automation System
-Overview
 The Hospital Automation System is a Python-based project designed to automate various aspects of hospital management. It allows for managing patients and doctors, storing their data, and offering features such as adding, editing, and deleting patient and doctor records. This project uses colorama for a better visual experience with colored outputs, logging for event tracking, and file storage for saving data.
 
 Features
