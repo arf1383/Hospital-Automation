@@ -19,22 +19,21 @@ colorama: For colored text output in the terminal.
 logging: For logging events and actions.
 OS Commands: To clear the screen and handle system-specific tasks.
 
-####################################################################
+##########################################################
 
 hospital-automation-system/
 │
-├── main.py               # Main entry point of the program
-├── hospital_automation.py # Core logic for managing patients and doctors
-├── models.py             # Patient and doctor data models
-├── utils.py              # Utility functions for file handling and data loading/saving
-├── validation.py         # Input validation functions
-├── logger.py             # Logging setup
-├── clear_screen.py       # Function to clear the screen
-├── requirements.txt      # Dependencies required for the project
-├── hospital.log          # Log file for system events
+├── main.py               
+├── hospital_automation.py
+├── models.py             
+├── utils.py              
+├── validation.py         
+├── logger.py             
+├── clear_screen.py       
+├── requirements.txt      
+├── hospital.log          
 
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Author
 Alireza Rahmani Firouzja
